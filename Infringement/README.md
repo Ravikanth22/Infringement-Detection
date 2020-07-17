@@ -1,4 +1,4 @@
-# Infringement Project
+# Infringement
 
 This repository contains code and associated files for deploying a Infringement detector.
 
